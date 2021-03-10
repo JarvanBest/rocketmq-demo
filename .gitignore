@@ -1,0 +1,4 @@
+# Project exclude paths
+/rocketmq-consumer/target/
+/rocketmq-producer/target/
+/rocketmq-transactional/target/
